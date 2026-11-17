@@ -1,7 +1,7 @@
 package com.servicios.soa.clientes.api.dto;
 
 import com.servicios.soa.clientes.model.Cliente;
-
+          
 import java.util.UUID;
 
 public record ClienteDetailsResponse(
